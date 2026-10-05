@@ -1,2 +1,6 @@
 # bnb549.github.io
-Public GitHub Pages site, including Chapterline privacy and support pages.
+
+Public pages for Chapterline.
+
+- Privacy Policy: https://bnb549.github.io/privacy.html
+- Support: https://bnb549.github.io/support.html
